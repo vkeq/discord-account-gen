@@ -10,7 +10,9 @@
 > `WINDOWS` and search `CMD`
 
  **2.** Clone the repo:
- > ```git clone https://github.com/eryycr/discord-account-gen.git```
+> ```
+> git clone https://github.com/eryycr/discord-account-gen.git
+> ```
 
 **3.** extract the .zip file
 
