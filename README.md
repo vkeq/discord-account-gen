@@ -14,13 +14,10 @@
 
 **3.** extract the .zip file
 
-**4.** open the folder in cmd:
-> `cd discord-account-gen-main`
-
-**5.** open setup.bat:
+**4.** open setup.bat:
 > `wait until the CMD window closes automatically`
 
-**6.** edit settings:
+**5.** edit settings:
 > ```
 >   // Settings
 >  const captchakey = 'CAPTCHAKEY'
@@ -29,7 +26,7 @@
 >  const PROXY_PASSWORD = 'PROXY PSW'
 >  ...```
 
-**7.** open start.bat
+**6.** open start.bat
 > `if you fill all settings the scrip will work fine!!!`
 
 
