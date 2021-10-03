@@ -29,3 +29,9 @@
 >  const PROXY_PASSWORD = 'PROXY PSW'
 >  ...```
 
+**7.** open start.bat
+> `if you fill all settings the scrip will work fine!!!`
+
+
+
+made with JS & ❤
