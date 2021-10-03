@@ -27,17 +27,5 @@
 >  const PROXY_ADDR = 'PROXY ADDR'
 >  const PROXY_USERNAME = 'PROXY USERNAME'
 >  const PROXY_PASSWORD = 'PROXY PSW'
->  const BROWSER_CONFIG = {
->    args: [
->      '--no-sandbox',
->      '--disable-setuid-sandbox',
->      '--disable-infobars',
->      '--window-position=0,0',
->      "--proxy-server=" + PROXY_ADDR,
->      '--window-size=1600,900',
->    ],
->    defaultViewport: null,
->    ignoreHTTPSErrors: true,
->    headless: false,
->  }
+>  ...
 > ```
