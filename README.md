@@ -23,10 +23,10 @@
 **6.** edit settings:
 > ```
 >   // Settings
->  const captchakey = ''
->  const PROXY_ADDR = ''
->  const PROXY_USERNAME = ''
->  const PROXY_PASSWORD = ''
+>  const captchakey = 'CAPTCHAKEY'
+>  const PROXY_ADDR = 'PROXY ADDR'
+>  const PROXY_USERNAME = 'PROXY USERNAME'
+>  const PROXY_PASSWORD = 'PROXY PSW'
 >  const BROWSER_CONFIG = {
 >    args: [
 >      '--no-sandbox',
